@@ -1,6 +1,6 @@
 # 🍽️ Cuisine Quest
 
-**Live App:** [cuisine-quest.vercel.app](https://v0-cuisine-quest-design-one.vercel.app/)  
+**Live App:** [https://cuisine-quest-zeta.vercel.app/]()  
 A collaborative recipe platform like GitHub—but for cooking.
 
 ---
